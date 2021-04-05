@@ -1,1 +1,1 @@
-# Serverless Dynamodb to SQS
+# Serverless DynamoDB to SQS
